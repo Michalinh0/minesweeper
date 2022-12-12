@@ -1,0 +1,12 @@
+Minesweeper, wersja 1.0
+
+W tym katalogu znajduje się implementacja gry minesweeper, znanej z systemów operacyjnych Windows
+
+Interakcja z programem odbywa się poprzez wpisywanie współrzędnych w konsoli
+
+Instrukcja uruchomienia
+
+Aby uruchomić program trzeba uruchomić komendę make run
+Aby wyczyścić katalog z zbędnych plików trzeba uruchomić komendę make clean
+
+Michał Machowski
